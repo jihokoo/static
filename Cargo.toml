@@ -8,10 +8,14 @@ repository = "https://github.com/iron/static"
 license = "MIT"
 
 [dependencies]
-mount = "*"
 time = "*"
-router = "*"
 iron-test = "*"
 
 [dependencies.iron]
 git = "https://github.com/jihokoo/iron.git"
+
+[dependencies.mount]
+git = "https://github.com/jihokoo/mount.git"
+
+[dependencies.router]
+git = "https://github.com/jihokoo/router.git"
