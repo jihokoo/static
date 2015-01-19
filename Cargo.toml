@@ -9,7 +9,6 @@ license = "MIT"
 
 [dependencies]
 time = "*"
-iron-test = "*"
 
 [dependencies.iron]
 git = "https://github.com/jihokoo/iron.git"
@@ -19,3 +18,6 @@ git = "https://github.com/jihokoo/mount.git"
 
 [dependencies.router]
 git = "https://github.com/jihokoo/router.git"
+
+[dependencies.iron-test]
+git = "https://github.com/jihokoo/iron-test.git"
